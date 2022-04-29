@@ -495,7 +495,6 @@ h1, h2, h3, p {
 }
 
 .adress__item {
-  width: 231px;
   margin-bottom: 10px;
 }
 .adress__item:last-child {
